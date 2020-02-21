@@ -3,6 +3,8 @@
 
 Hi! This repo contains my solution to the "book scanning" problem of HashCode 2020. 
 
+You can read more about my implementation [here](https://dev.to/francescotonini/my-solution-to-the-google-hashcode-2020-online-round-14md).
+
 | Input                      | Score     |
 |----------------------------|---------- |
 | A - example                | 21        |
